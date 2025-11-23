@@ -30,5 +30,5 @@ El proyecto incluye soluciones para los siguientes algoritmos:
 4.  Compilar y ejecutar.
 
 ---
-**Autor:** [Tu Nombre]
+**Autor:** [Velazquez Rojas Alfons, Angel Fernandez Marijose, Rios Martinez Camila]
 **Estado:** Activo 🟢
